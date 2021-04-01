@@ -6,10 +6,10 @@ On the other hand, to visualize the data collected on several counters of the ci
 
 ## Prediction part
 
-The code that allowed me to do the prediction part is the script 'Prediction.py'    
+The code that allowed me to do the prediction part is the script `Prediction.py`   
 
 
 ## Visual part  
 
 Please click here to see the visual part: https://rawcdn.githack.com/mohamedfattouhy/Challenge_bike/fe20922a5ad27b4af45a217528d25698526e2da7/map.html  
-The code that allowed me to do the visualization part is the script **Visualization.py**
+The code that allowed me to do the visualization part is the script `Visualization.py`
