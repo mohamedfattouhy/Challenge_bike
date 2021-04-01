@@ -6,7 +6,7 @@ On the other hand, to visualize the data collected on several counters of the ci
 
 ## Prediction part
 
-The code that allowed me to do the prediction part is the script **Prediction.py**    
+The code that allowed me to do the prediction part is the script 'Prediction.py'    
 
 
 ## Visual part  
